@@ -8,3 +8,7 @@
   - [api-wrapper](https://github.com/lpt0/rs-bestiary-api-wrapper)
   - [Backend](https://github.com/lpt0/rs-bestiary-data-api)
   - [Frontend](https://github.com/lpt0/rs-bestiary-viewer)
+
+## Agent-first projects
+
+- [AndRecord](https://github.com/lpt0/AndRecord)
